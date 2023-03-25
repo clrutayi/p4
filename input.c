@@ -5,8 +5,6 @@
 */
 
 #include "input.h"
-#include <stdio.h>
-#include <stdlib.h>
 
 char *readLine(FILE *fp) {
     char *line = NULL;
